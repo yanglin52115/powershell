@@ -7,5 +7,6 @@
      else
      {
         Write-Host -fore "Green" $element.name,kidfs
+        Write-Host -fore "Green" $element.name,yes,you are rigit,yes
       }
 }
