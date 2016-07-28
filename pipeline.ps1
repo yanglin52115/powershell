@@ -6,6 +6,6 @@
      }
      else
      {
-        Write-Host -fore "Green" $element.name
+        Write-Host -fore "Green" $element.name,yes,you are rigit
       }
 }
